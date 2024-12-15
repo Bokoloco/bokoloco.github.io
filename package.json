@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "x-nes": "^0.2.2"
+  }
+}
